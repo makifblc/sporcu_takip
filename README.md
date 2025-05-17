@@ -81,27 +81,27 @@ Bu proje, sporcuların antrenmanlarını, gelişimlerini ve performanslarını t
 
 ### 🔐 Giriş Ekranı
 
-![Giriş Ekranı](image/login.png)
+![Giriş Ekranı](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/login.png)
 
 ### 🏠 Ana Menü
 
-![Ana Menü](image/arayüz.png)
+![Ana Menü](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/arayüz.png)
 
 ### 🧍 Sporcu Ekleme
 
-![Sporcu Ekleme](image/sporcu_ekle.png)
+![Sporcu Ekleme](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/sporcu_ekle.png)
 
 ### 🏋️ Antrenman Ekleme
 
-![Antrenman Ekleme](image/antrenman_ekle.png)
+![Antrenman Ekleme](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/antrenman_ekle.png)
 
 ### 📊 Performans Grafiği
 
-![Performans Grafiği](image/grafik.png)
+![Performans Grafiği](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/grafik.png)
 
 ### ⚖️ Karşılaştırmalı Analiz
 
-![Karşılaştırmalı Analiz](image/karsılastırma.png)  
+![Karşılaştırmalı Analiz](https://github.com/makifblc/sporcu_takip/blob/main/sporcu_takip/image/karsılastırma.png)  
 
 
 ---
